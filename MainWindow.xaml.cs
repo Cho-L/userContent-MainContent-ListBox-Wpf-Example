@@ -22,8 +22,8 @@ namespace LoginWpfDemo
             new Person{ Name = "아무개", Age = 23},
             new Person{ Name = "홍길동", Age = 33},
             new Person{ Name = "김용혁", Age = 13},
-            new Person{ Name = "주채린", Age = 24},
-            new Person{ Name = "김민서", Age = 28}
+            new Person{ Name = "조자룡", Age = 24},
+            new Person{ Name = "제갈량", Age = 28}
         };
 
         public MainWindow()
@@ -42,4 +42,5 @@ namespace LoginWpfDemo
             }
         }
     }
+
 }
